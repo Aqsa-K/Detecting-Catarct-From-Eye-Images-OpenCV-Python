@@ -2,7 +2,7 @@
 Using openCV to detect the degree of cataract developed using image of eye
 
 
-Result:
+## Result:
 
 Pupil area:  8637.0
 Centre of pupil: (275,359)
