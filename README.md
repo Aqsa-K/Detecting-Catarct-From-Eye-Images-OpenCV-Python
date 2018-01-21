@@ -5,10 +5,15 @@ Using openCV to detect the degree of cataract developed using image of eye
 ## Result:
 
 Pupil area:  8637.0
+
 Centre of pupil: (275,359)
+
 Cataract area:  529.0
+
 Centre of cataract: (292,349)
+
 Cataract is (17,-10) away from pupil centre
+
 You have 5.77 percent cataract
 
 
