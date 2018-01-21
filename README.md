@@ -14,7 +14,7 @@ Centre of cataract: (292,349)
 
 Cataract is (17,-10) away from pupil centre
 
-You have 5.77 percent cataract
+5.77 percent cataract
 
 
 ## Original Image
